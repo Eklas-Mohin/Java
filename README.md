@@ -1,3 +1,3 @@
-# Java Basics
-- To compile - javac fileName.java
-- To run - Java fileName
+# Java Language Basics
+## Compile - javac fileName.java
+## Run - Java fileName
